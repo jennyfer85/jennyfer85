@@ -1,4 +1,4 @@
-## Hola a tpdos 👋
+## Hola a todos 👋
 
 ---
 
