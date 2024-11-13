@@ -20,13 +20,12 @@
 
 # Front-End Development
 
-![Front-End Image 1](https://github.com/user-attachments/assets/61424371-695c-4f48-a58c-1f3d1d0da784)
-
-![Front-End Image 2](https://github.com/user-attachments/assets/910884c9-4a82-4658-a034-f96ac51173cd)
-
-![Front-End Image 3](https://github.com/user-attachments/assets/7b91e3c0-87f4-4852-bec2-7542264de581)
-
-![Front-End Image 4](https://github.com/user-attachments/assets/4375c715-68c6-4732-abbd-32aa115235ba)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61424371-695c-4f48-a58c-1f3d1d0da784" width="100" alt="Front-End Image 1">
+  <img src="https://github.com/user-attachments/assets/910884c9-4a82-4658-a034-f96ac51173cd" width="100" alt="Front-End Image 2">
+  <img src="https://github.com/user-attachments/assets/7b91e3c0-87f4-4852-bec2-7542264de581" width="100" alt="Front-End Image 3">
+  <img src="https://github.com/user-attachments/assets/4375c715-68c6-4732-abbd-32aa115235ba" width="100" alt="Front-End Image 4">
+</p>
 
 ---
 
