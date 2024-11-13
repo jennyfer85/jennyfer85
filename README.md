@@ -12,7 +12,7 @@
 
 🏦 Con una sólida trayectoria en el sector financiero, he desarrollado habilidades en **gestión de proyectos, comunicación efectiva** y **trabajo en equipo**, que aplico en cada proyecto de desarrollo.
 
-🎯 Apasionada por las **metodologías ágiles (Scrum)** y familiarizada con herramientas de colaboración como **GitHub, VS Code, NetBeans, Figma, TestLink y Jira**.
+🎯 Apasionada por las **metodologías ágiles (Scrum)** y familiarizada con herramientas de colaboración como **GitHub, VS Code, NetBeans, Eclipse, Figma, TestLink, Trello y Jira**.
 
 🤔 **Actualmente, estoy en búsqueda de nuevas oportunidades laborales** para seguir contribuyendo y creciendo en el ámbito del desarrollo web.
 
