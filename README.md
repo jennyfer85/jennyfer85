@@ -17,3 +17,8 @@
 🤔 **Actualmente, estoy en búsqueda de nuevas oportunidades laborales** para seguir contribuyendo y creciendo en el ámbito del desarrollo web.
 
 ---
+
+Tecnologías conocidas👨🏻‍💻
+
+![image](https://github.com/user-attachments/assets/aa45bb22-0f73-4dc4-9443-e9a5cfd8029d)
+
