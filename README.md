@@ -20,6 +20,12 @@
 
 Front-End Development:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/![image](https://github.com/user-attachments/assets/61424371-695c-4f48-a58c-1f3d1d0da784)" />
+  </a>
+</p>
+
 ![image](https://github.com/user-attachments/assets/61424371-695c-4f48-a58c-1f3d1d0da784)
 
 ![image](https://github.com/user-attachments/assets/910884c9-4a82-4658-a034-f96ac51173cd)
