@@ -20,5 +20,9 @@
 
 Tecnologías conocidas👨🏻‍💻
 
-![image]
+
+![image](https://github.com/user-attachments/assets/61424371-695c-4f48-a58c-1f3d1d0da784)
+
+
+
 
