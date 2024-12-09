@@ -2,7 +2,7 @@
 
 ---
 
-🏫 **Soy una Desarrolladora Web Fullstack Junior** en constante evolución, apasionada por crear soluciones digitales efectivas con un enfoque en **QA Testing**. Me motiva el aprendizaje continuo y el deseo de contribuir a proyectos innovadores en el campo tecnológico.
+🏫 **Soy una Desarrolladora Web Fullstack Junior** en constante evolución, apasionada por crear soluciones digitales efectivas. Me motiva el aprendizaje continuo y el deseo de contribuir a proyectos innovadores en el campo tecnológico.
 
 🧑‍🎓💻 Actualmente estoy completando un **bootcamp intensivo de 850 horas** en desarrollo web fullstack, donde aplico y perfecciono tecnologías como **HTML, CSS, JavaScript, React, Node.js** y **SQL**.
 
