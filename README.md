@@ -1,20 +1,42 @@
-## Hola a todos 👋
+### 👋 ¡Hola! Soy QA Tester (Manual & Automatización)
+
+Soy QA Tester con experiencia en **pruebas manuales y automatización con Selenium WebDriver (Java)**. Mi objetivo es asegurar la calidad y el correcto funcionamiento del software durante todo su ciclo de desarrollo, aplicando buenas prácticas y metodologías ágiles.
+
+🔹 Actualmente trabajo como **QA Tester (manual y automatización)**, realizando:
+- Diseño y ejecución de casos de prueba
+- Automatización con Selenium WebDriver (Java)
+- Mantenimiento y creación de scripts automáticos
+- Detección y seguimiento de incidencias
+
+🔹 Además, cuento con formación en **HTML, CSS, JavaScript, React, Node.js y SQL**, lo que me permite entender el ciclo completo del desarrollo y colaborar de forma más efectiva con los equipos técnicos.
 
 ---
 
-🏫 **Soy una Desarrolladora Web Fullstack Junior** en constante evolución, apasionada por crear soluciones digitales efectivas. Me motiva el aprendizaje continuo y el deseo de contribuir a proyectos innovadores en el campo tecnológico.
+### 🚀 ¿Qué me motiva?
+- La mejora continua y la calidad del producto
+- Aprender nuevas tecnologías y buenas prácticas
+- Integrar desarrollo + testing para aportar una visión más completa
+- Formar parte de equipos ágiles y colaborativos
 
-🧑‍🎓💻 Actualmente estoy completando un **bootcamp intensivo de 850 horas** en desarrollo web fullstack, donde aplico y perfecciono tecnologías como **HTML, CSS, JavaScript, React, Node.js** y **SQL**.
+---
 
-🤓 **Siempre en busca de aprender cosas nuevas y mejorar mis habilidades**.
+### 🛠️ Tecnologías y herramientas
+- **Testing**: Selenium WebDriver (Java), TestLink, Jira
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: java, Node.js, Express
+- **BBDD**: MySQL
+- **Metodologías**: Scrum
+- **Otras herramientas**: GitHub, VS Code, Figma, Trello
 
-🔍 Mi experiencia en **QA Testing** me ha brindado una perspectiva profunda sobre la optimización y el aseguramiento de calidad en aplicaciones web y móviles.
+---
 
-🏦 Con una sólida trayectoria en el sector financiero, he desarrollado habilidades en **gestión de proyectos, comunicación efectiva** y **trabajo en equipo**, que aplico en cada proyecto de desarrollo.
+### 📌 Background adicional
+Mi experiencia previa en el sector financiero me aportó habilidades clave como la gestión, comunicación efectiva y resolución de problemas, que ahora aplico al desarrollo y la calidad del software.
 
-🎯 Apasionada por las **metodologías ágiles (Scrum)** y familiarizada con herramientas de colaboración como **GitHub, VS Code, NetBeans, Eclipse, Figma, TestLink, Trello y Jira**.
+---
 
-🤔 **Actualmente, estoy en búsqueda de nuevas oportunidades laborales** para seguir contribuyendo y creciendo en el ámbito del desarrollo web.
+🌱 Siempre buscando crecer, mejorar y aportar valor en proyectos innovadores.
+
 
 ---
 
