@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy QA Tester (Manual & Automatización)
 
-Soy QA Tester con experiencia en **pruebas manuales y automatización con Selenium WebDriver (Java)**. Mi objetivo es asegurar la calidad y el correcto funcionamiento del software durante todo su ciclo de desarrollo, aplicando buenas prácticas y metodologías ágiles.
+Soy QA Tester con experiencia en **pruebas manuales y automatización con Selenium WebDriver**. Mi objetivo es asegurar la calidad y el correcto funcionamiento del software durante todo su ciclo de desarrollo, aplicando buenas prácticas y metodologías ágiles.
 
 🔹 Actualmente trabajo como **QA Tester (manual y automatización)**, realizando:
 - Diseño y ejecución de casos de prueba
