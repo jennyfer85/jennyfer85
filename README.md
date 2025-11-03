@@ -25,7 +25,7 @@ Soy QA Tester con experiencia en **pruebas manuales y automatización con Seleni
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: java, Node.js, Express
 - **BBDD**: MySQL
-- **Metodologías**: Scrum
+- **Metodologías**: Agile
 - **Otras herramientas**: GitHub, VS Code, Figma, Trello
 
 ---
